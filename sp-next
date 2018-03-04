@@ -1,0 +1,4 @@
+#!/bin/bash
+
+qdbus org.mpris.MediaPlayer2.spotify /org/mpris/MediaPlayer2 org.mpris.MediaPlayer2.Player.Next 1>/dev/null
+
